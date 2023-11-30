@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
-
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I currently lead the Computer Vision Research team at Tencent Map, with a long-standing dedication to the field of autonomous driving. My research interests span across artificial intelligence, computer vision, and machine learning, with a particular focus on 3D perception and reconstruction within autonomous driving. My research achievements have been published in multiple top-tier conferences, including AAAI, ICCV, ECCV, and WACV, with one of his co-authored papers earning the IAAI Application Innovation Award.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
