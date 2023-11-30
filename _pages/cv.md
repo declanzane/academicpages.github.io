@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Beijing Institute of Technology, 2004-2008
+#* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Tsinghua University, 2008-2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 05/2016: Team leader
+  * Company: Baidu IDG
+  * Duties included: Team leader for the end to end valet parking obstacle avoidance
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 10/2018: Team leader
+  * Company: Baidu IDG
+  * Duties included: Team leader for the crowdsourced mapping
   
 Skills
 ======
