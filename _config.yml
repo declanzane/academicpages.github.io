@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Chao Zheng"
   avatar           : "WechatIMG258.png"
-  bio              : "When something is important enough, you do it even if the odds are not in your favor"
-  location         : "Location"
+  bio              : "Director of Perception Team"
+  location         : Beijing, China
   employer         : Tencent
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=6A1yEFMAAAAJ&hl=en"
   email            : zc08@tsinghua.org.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
